@@ -1,5 +1,5 @@
-Machine, Rôle, Adresse IP, Mode VMware,
-Pare-feu, Pare-feu + NAT, LAN:192.168.20.5, NAT + Host-Only,
-Contrôleur de domaine, Active Directory + DNS + DHCP, 192.168.20.10, Host-Only,
-Serveur de fichiers, Partages + Stockages, 192.168.20.20, Host-Only,
-Client, Poste étudiant, 192.168.20.100, Host-Only,
+Machine, Rôle, Adresse IP, Mode VMware
+Pare-feu, Pare-feu + NAT, LAN:192.168.20.5, NAT + Host-Only
+Contrôleur de domaine, Active Directory + DNS + DHCP, 192.168.20.10, Host-Only
+Serveur de fichiers, Partages + Stockages, 192.168.20.20, Host-Only
+Client, Poste étudiant, 192.168.20.100, Host-Only
